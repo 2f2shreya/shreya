@@ -1,5 +1,5 @@
 ---
-name: Idea Submission
+name: User story
 about: Share your idea for making this project better.
 title: ''
 labels: ''
